@@ -1,0 +1,12 @@
+/**
+ * Sample code - for educational purpose only
+ * 
+ * @author      Sola Ajiboye
+ * @version     1.0
+ */
+ public with sharing class TestSomething {
+
+	public void testIt() {
+		// do something
+	}
+ }
